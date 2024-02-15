@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Spoilerbeatz
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning DATA ANALYSIS 
-- 💞️ I’m looking to collaborate on Data Analytics and Web design 
+- 💻 I’m a Tech enthusiast 
+- 💻 DATA SCIENTIST 
+- 👨🏼‍💻 PYTHON PROGRAMMER
+- 💞️ I’m looking to collaborate on Data Analytics and other related majors. 
 - 📫 How to reach me: Mail: spoilerbeatz.info@gmail.com.
 
 <!---
